@@ -1,8 +1,8 @@
-# ScypherAI - Pine Script to Python Backtesting Framework
+# SableAI - Pine Script to Python Backtesting Framework
 
 ## 🎯 **Overview**
 
-ScypherAI is a comprehensive Domain-Driven Design (DDD) framework for translating TradingView Pine Script strategies into Python code and running professional-grade backtests across multiple data sources. This framework implements the **RBI method** (Research, Backtest, Implement) with enterprise-grade architecture.
+ SableAI is a comprehensive Domain-Driven Design (DDD) framework for translating TradingView Pine Script strategies into Python code and running professional-grade backtests across multiple data sources. This framework implements the **RBI method** (Research, Backtest, Implement) with enterprise-grade architecture.
 
 ## 🚀 **Key Features**
 
@@ -19,7 +19,7 @@ ScypherAI is a comprehensive Domain-Driven Design (DDD) framework for translatin
 ## 📁 **Project Structure**
 
 ```
-ScypherAI/
+ SableAI/
 ├── domain_models.py              # Core domain models and value objects
 ├── domain_services.py            # Domain services for business logic
 ├── technical_analysis_service.py # BTA-Lib technical analysis service
@@ -56,7 +56,7 @@ ScypherAI/
 ### **1. Clone the Repository**
 ```bash
 git clone https://github.com/yourusername/ScypherAI.git
-cd ScypherAI
+cd  SableAI
 ```
 
 ### **2. Install Dependencies**
