@@ -1,0 +1,83 @@
+SableAI Logo Generation Prompt for Nano Banana
+
+MAIN PROMPT:
+"Create a professional logo featuring Sableye Pokemon as the mascot for SableAI trading framework. Show Sableye performing trading and data analysis activities in a modern, tech-inspired style with dark purple and gold colors."
+
+DETAILED VISUAL DESCRIPTION:
+
+CENTRAL CHARACTER:
+- Large Sableye Pokemon in the center, wearing tech accessories (headset, smartwatch)
+- Confident pose: one hand on hip, other pointing at floating trading chart
+- Dark purple body with glowing gold gem eyes
+- Small backpack with trading tools
+- Intelligent, tech-savvy expression
+
+SURROUNDING ACTION SCENES (arranged in circle around main Sableye):
+1. Pine Script Translation: Smaller Sableye at desk with dual monitors showing Pine Script and Python code
+2. Multi-Data Testing: Sableye surrounded by floating crypto/stock symbols (BTC, ETH, AAPL, GOOGL)
+3. AI Strategy Generation: Sableye with thought bubble showing "Buy when RSI < 30" transforming into code
+4. Technical Analysis: Sableye analyzing charts with RSI, MACD, Bollinger Bands indicators
+5. Risk Management: Sableye holding shield with calculator, monitoring portfolio risk
+6. Backtesting Results: Sableye celebrating with performance metrics floating around
+
+BACKGROUND ELEMENTS:
+- Dark space-like environment with floating data streams
+- Pine Script and Python code snippets with syntax highlighting
+- Trading charts with candlestick patterns
+- AI neural network patterns
+- Financial symbols and currency signs floating
+- Mathematical formulas and equations
+
+TEXT ELEMENTS:
+- "SableAI" in bold, modern font (gold color)
+- Tagline: "Transform Your Trading Ideas Into Profitable Strategies" (smaller text below)
+- Performance metrics: "Win Rate: 75%", "Profit Factor: 2.3", "Sharpe Ratio: 1.8"
+
+COLOR SCHEME:
+- Primary: Dark Purple (#4B0082) - Sableye's body
+- Secondary: Gold (#FFD700) - Gem eyes and text
+- Accent: Electric Blue (#0066CC) - Tech elements and code
+- Background: Dark space with subtle gradients
+- Highlights: White and silver for contrast
+
+STYLE REQUIREMENTS:
+- Modern digital illustration
+- Clean lines and professional aesthetic
+- Dynamic action scene with multiple layers
+- Tech-savvy and intelligent mood
+- Professional yet approachable
+- Slightly mysterious like Sableye's nature
+
+COMPOSITION:
+- Central Sableye in foreground (largest)
+- Action scenes in middle ground (smaller)
+- Background elements in background (faintest)
+- Circular arrangement around main character
+- Multiple layers for depth and visual interest
+
+TECHNICAL ELEMENTS TO INCLUDE:
+- Floating code blocks with syntax highlighting
+- Trading charts and candlestick patterns
+- Data visualization graphs and metrics
+- AI neural network connections
+- Risk management shields and tools
+- Performance dashboards and indicators
+
+VISUAL METAPHORS:
+- Data streams flowing between Sableye characters
+- Code transformation arrows (Pine Script → Python)
+- Charts being analyzed by Sableye's gem eyes
+- Neural network patterns emanating from Sableye's head
+- Gold coins and profit charts floating around
+- Clean, modern workspace elements
+
+FINAL RESULT SHOULD SHOW:
+- Professional trading framework capabilities
+- AI-powered strategy generation
+- Multi-data source testing
+- Technical analysis expertise
+- Risk management focus
+- Performance-driven results
+- Sableye as the intelligent, tech-savvy guide
+
+This logo should represent a complete trading framework that transforms Pine Script strategies into profitable algorithms, with Sableye as the intelligent mascot guiding users through the process.
