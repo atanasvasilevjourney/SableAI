@@ -1,0 +1,54 @@
+SableAI Logo Design Prompt for Nano Banana
+
+MAIN PROMPT:
+"Create a professional logo featuring Sableye Pokemon as the mascot for SableAI trading framework. Show Sableye performing trading and data analysis activities in a modern, tech-inspired style with dark purple and gold colors."
+
+DETAILED DESCRIPTION:
+- Central Sableye character wearing tech accessories (headset, smartwatch)
+- Confident pose pointing at floating trading charts and code
+- Background with Pine Script and Python code snippets
+- Multiple smaller Sableye characters performing different tasks:
+  * One translating Pine Script to Python code
+  * One analyzing charts with technical indicators (RSI, MACD, Bollinger Bands)
+  * One generating AI strategies from natural language
+  * One monitoring risk management dashboards
+  * One celebrating with performance metrics
+
+VISUAL ELEMENTS:
+- Dark space-like background with floating data streams
+- Trading charts with candlestick patterns
+- Code blocks with syntax highlighting
+- AI neural network patterns
+- Financial symbols (BTC, ETH, AAPL, etc.)
+- Performance metrics and graphs
+- Risk management shields and tools
+
+COLOR SCHEME:
+- Primary: Dark Purple (#4B0082) - Sableye's body
+- Secondary: Gold (#FFD700) - Sableye's gem eyes and accents
+- Accent: Blue (#0066CC) - Tech elements
+- Background: Dark space with subtle gradients
+
+TEXT:
+- "SableAI" in bold, modern font
+- Tagline: "Pine Script to Python Backtesting Framework"
+- Gold/yellow text color
+
+STYLE:
+- Modern digital illustration
+- Clean lines and professional aesthetic
+- Dynamic action scene
+- Tech-savvy and intelligent mood
+- Professional yet approachable
+
+KEYWORDS TO INCORPORATE:
+Pine Script Translation, Python Backtesting, Multi-Data Source Testing, AI Strategy Generation, Technical Analysis, Risk Management, Algorithmic Trading, Quantitative Finance, Performance Metrics, Portfolio Management
+
+COMPOSITION:
+- Main Sableye in center foreground
+- Action scenes arranged around in circular pattern
+- Multiple layers for depth
+- Professional workspace elements
+- Floating data and code elements
+
+This logo should represent a complete trading framework that transforms Pine Script strategies into professional Python backtesting systems, with Sableye as the intelligent, tech-savvy mascot guiding users through the process.
